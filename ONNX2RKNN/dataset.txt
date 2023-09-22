@@ -1,0 +1,1 @@
+mnist_image7.jpg
